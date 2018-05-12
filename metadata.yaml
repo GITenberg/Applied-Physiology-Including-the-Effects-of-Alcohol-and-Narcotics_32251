@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '35749'
     url: http://www.gutenberg.org/2009/agents/35749
 description: 1. Primary grade -- 2. Intermediate grade -- 3. Advanced grade.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32251#Applied-Physiology-Including-the-Effects-of-Alcohol-and-Narcotics
 gutenberg_issued: '2010-05-04'
 gutenberg_type: Text
 identifiers:
